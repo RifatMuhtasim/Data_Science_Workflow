@@ -1,13 +1,10 @@
-# Data_Science_Workflow
-
-
 # Problem Understanding - Introduction
 
 
-# Data Cleaning & Preprocessing
+# 1. Data Pre-processing & Cleaning
 
 
-# Exploratory Data Analysis (EDA)
+# 2. Exploratory Data Analysis (EDA)
 
 
 # 3. Feature Engineering
