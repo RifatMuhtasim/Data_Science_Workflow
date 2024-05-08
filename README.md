@@ -15,7 +15,7 @@
 - Polynomial Features
 - Interaction Features
 - Binning or Discretization
-- Remove Features with Correlation value
+- Remove Features with Correlation value:
   - Pearson Correlation
   - Point Biserial Correlation
   - Correlation Ratio
