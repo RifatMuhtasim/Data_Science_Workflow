@@ -2,7 +2,7 @@
 
 
 # 1. Data Pre-processing & Cleaning
-## 1. Data Load & Cleaning [Page](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/1.1.Data_Load_And_Cleaning.ipynb)
+## 1.1. Data Load & Cleaning [Page](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/1.1.Data_Load_And_Cleaning.ipynb)
 - Load the dataset:
   - Save dataset on Colab (Zip & Single)
   - Check the dimension of the dataset
