@@ -22,6 +22,10 @@
     3. Using interpolation methods
     4. Forward and Backward Technique
     5. Depending on the context (Random Missing, Missing Indicator)
+- Handle Duplicates
+  - Identify Duplicates
+  - Drop Duplicates
+     
 
 # 2. Exploratory Data Analysis (EDA)
 
