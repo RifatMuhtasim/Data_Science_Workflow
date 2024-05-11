@@ -48,11 +48,12 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 
 # 3. Feature Engineering
 ## 3.1. Create New Features [Page](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/3.1.Create_New_Features.ipynb)
-- Polynomial Features
-- Interaction Features
-- Binning or Discretization
-- Remove Features with Correlation value:
-  - Pearson Correlation
-  - Point Biserial Correlation
-  - Correlation Ratio
-  - Cramer's V
+1. Create New Features:
+    - Polynomial Features
+    - Interaction Features
+    - Binning or Discretization
+2. Remove Features with Correlation value:
+      - Pearson Correlation
+      - Point Biserial Correlation
+      - Correlation Ratio
+      - Cramer's V
