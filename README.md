@@ -13,12 +13,12 @@
   - Strategy for Missing Value:
     1. Dropping rows or columns with missing values
     2. Imputation (filling missing values with a specific value, e.g., mean, median, mode)
-      - Univariate:
-        - Numerical: Mean, Median, Mode, End of the Distribution
-        - Categorical: Mode, 'Missing'
-      - Multivariate:
-        - KNN Impute
-        - Iterative Impute
+        - Univariate:
+          - Numerical: Mean, Median, Mode, End of the Distribution
+          - Categorical: Mode, 'Missing'
+        - Multivariate:
+          - KNN Impute
+          - Iterative Impute
     3. Using interpolation methods
     4. Forward and Backward Technique
     5. Depending on the context (Random Missing, Missing Indicator)
