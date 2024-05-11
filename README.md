@@ -12,10 +12,10 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     - Strategy for Missing Value:
       1. Dropping rows or columns with missing values
       2. Imputation (filling missing values with a specific value, e.g., mean, median, mode)
-          - Univariate:
-            - Numerical: Mean, Median, Mode, End of the Distribution
-            - Categorical: Mode, 'Missing'
-          - Multivariate:
+          - Univariate :
+            - Numerical : Mean, Median, Mode, End of the Distribution
+            - Categorical : Mode, 'Missing'
+          - Multivariate :
             - KNN Impute
             - Iterative Impute
       3. Using interpolation methods
@@ -27,7 +27,24 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
      
 
 # 2. Exploratory Data Analysis (EDA)
-
+## 2.1. EDA_Target_Correlation [Page](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/2.1.EDA_Target_Correlation.ipynb)
+1. Explore Distribution of Target Variable
+    - Visualize the distribution of the target variable
+    - Visualize the target variable skewness and histogram
+    - Transformation to achieve a symmetrical distribution
+2. Visualize the Relationship between features and Target
+    - 2.2. Visualization Page
+3. Explore Correlations between Features
+    - Compute pairwise correlation
+    - Visualize Correlation using Heatmap (regression)
+    - Identify Highly Correlated Columns :
+      - Regression
+      - Classification :
+           - Binary Classification (Point Biserial)
+           - Categorical Classification (Correlation Ratio)
+           - Categorical Classification (Cramer's V)
+   - Drop Highly Correlated Columns
+          
 
 # 3. Feature Engineering
 ## 3.1. Create New Features [Page](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/3.1.Create_New_Features.ipynb)
