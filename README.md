@@ -3,10 +3,10 @@
 
 # 1. Data Pre-processing & Cleaning
 ## 1.1. Data Load & Cleaning [Page](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/1.1.Data_Load_And_Cleaning.ipynb)
-- Load the dataset:
+1. Load the dataset:
   - Save dataset on Colab (Zip & Single)
   - Check the dimension of the dataset
-- Handle Missing Value:
+2. Handle Missing Value:
   - Check Missing Value:
     - Identify missing values in each column
     - Dataframe to show the missing value with it's percentage
@@ -22,7 +22,7 @@
     3. Using interpolation methods
     4. Forward and Backward Technique
     5. Depending on the context (Random Missing, Missing Indicator)
-- Handle Duplicates
+3. Handle Duplicates
   - Identify Duplicates
   - Drop Duplicates
      
