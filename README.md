@@ -1,7 +1,7 @@
 Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/1yxul-IzD_0L_jeFiIUAPm0ksZVJfQyrF_scu3YIFCh0/edit?usp=sharing)
 
 # 1. Data Pre-processing & Cleaning
-## 1.1. Data Load & Cleaning [Page](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/1.1.Data_Load_And_Cleaning.ipynb)
+## 1.1. Data Load & Cleaning [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/1.1.Data_Load_And_Cleaning.ipynb)
 1. Load the dataset:
     - Save dataset on Colab (Zip & Single)
     - Check the dimension of the dataset
@@ -27,7 +27,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
      
 
 # 2. Exploratory Data Analysis (EDA)
-## 2.1. EDA_Target_Correlation [Page](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/2.1.EDA_Target_Correlation.ipynb)
+## 2.1. EDA_Target_Correlation [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/2.1.EDA_Target_Correlation.ipynb)
 1. Explore Distribution of Target Variable
     - Visualize the distribution of the target variable
     - Visualize the target variable skewness and histogram
@@ -47,7 +47,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
           
 
 # 3. Feature Engineering
-## 3.1. Create New Features [Page](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/3.1.Create_New_Features.ipynb)
+## 3.1. Create New Features [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/3.1.Create_New_Features.ipynb)
 1. Create New Features:
     - Polynomial Features
     - Interaction Features
@@ -57,3 +57,21 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
       - Point Biserial Correlation
       - Correlation Ratio
       - Cramer's V
+  
+## 3.2. Transform Skewed Columns [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/3.2.Transform_Skewed_Columns.ipynb)
+1. Identify Skewed Columns
+    - Visualization of the Skewed Columns
+2. Handle Skewed Columns
+    - Find the lowest skewed columns.
+    - Transform Skewed Columns
+  
+## 3.3. Feature Selection [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/3.3.Feature_Selection.ipynb)
+1. Identify Important columns :
+   a. Variance Threshold
+   b. Select Features using Mutual Info Classification
+   c. Select Features using Mutual Info Regression
+   d. Select Feature using Chi2 Statistical Analysis
+   e. Ranked Best feature using Univariate Analysis
+   f. Ranked Best Features using ANOVA
+   g. Select Features using ExtraTreesClassifier
+   i. Recursive Feature Elimination (RFE)
