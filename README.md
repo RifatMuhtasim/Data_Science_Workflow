@@ -66,12 +66,12 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     - Transform Skewed Columns
   
 ## 3.3. Feature Selection [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/3.3.Feature_Selection.ipynb)
-1. Identify Important columns :
-   a. Variance Threshold
-   b. Select Features using Mutual Info Classification
-   c. Select Features using Mutual Info Regression
-   d. Select Feature using Chi2 Statistical Analysis
-   e. Ranked Best feature using Univariate Analysis
-   f. Ranked Best Features using ANOVA
-   g. Select Features using ExtraTreesClassifier
-   i. Recursive Feature Elimination (RFE)
+1. Identify Important columns : <br/>
+   a. Variance Threshold <br/>
+   b. Select Features using Mutual Info Classification <br/>
+   c. Select Features using Mutual Info Regression <br/>
+   d. Select Feature using Chi2 Statistical Analysis <br/>
+   e. Ranked Best feature using Univariate Analysis <br/>
+   f. Ranked Best Features using ANOVA <br/>
+   g. Select Features using ExtraTreesClassifier <br/>
+   i. Recursive Feature Elimination (RFE) <br/>
