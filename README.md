@@ -75,4 +75,4 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     f. Ranked Best Features using ANOVA <br/>
     g. Select Features using ExtraTreesClassifier <br/>
     i. Recursive Feature Elimination (RFE) <br/>
-2. Remove Features
+2. Remove Unnecessary Features
