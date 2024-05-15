@@ -85,3 +85,18 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     - STD
     - Percentile
 3. Capping or Winsorization
+
+
+## 3.5. Encode and Scaled Features [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/3.5.Encode_and_Scaled_Features.ipynb)
+1. Encode categorical variables
+    - One Hot Encoding
+    - Label Encoding
+    - Ordinal Encoding
+2. Handling Class Imbalance (for Classification)
+    - SMOTE
+    - Undersampling
+    - Oversampling
+3. Scaled Numerical Features
+    - Standardization
+    - Normalization - MinMaxScaler
+    - Robust Scaler
