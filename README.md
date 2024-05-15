@@ -100,3 +100,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     - Standardization
     - Normalization - MinMaxScaler
     - Robust Scaler
+
+
+
+# 4. Model Selection
