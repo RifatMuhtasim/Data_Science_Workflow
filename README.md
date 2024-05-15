@@ -76,3 +76,12 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     g. Select Features using ExtraTreesClassifier <br/>
     i. Recursive Feature Elimination (RFE) <br/>
 2. Remove Unnecessary Features
+
+
+## 3.4. Handle Outliers [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/3.4.Handle_Outliers.ipynb)
+1. Identify Outliers
+2. Remove Outliers
+    - IQR
+    - STD
+    - Percentile
+3. Capping or Winsorization
