@@ -104,3 +104,12 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 
 
 # 4. Model Selection
+## 4.1. Model Selection [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/4.1.Model_Selection.ipynb)
+1. Split the Dataset 
+    - Train Test Split
+    - Time Series Split
+2. Choose Baseline Models
+    - Linear Regression
+    - Logistic Regression
+  
+      
