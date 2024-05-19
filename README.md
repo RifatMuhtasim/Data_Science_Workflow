@@ -105,7 +105,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 
 
 # 4. Model Selection
-## 4.1. Model Selection [Click Here](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/4.1.Model_Selection.ipynb)
+## 4.1. Model Selection [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/4.1.Model_Selection.ipynb) | [Colab](https://drive.google.com/file/d/1JuCjcKY2RADr6iH_qKSWLFdBPoxCyl-i/view?usp=sharing)
 1. Split the Dataset 
     - Train Test Split
     - Time Series Split
@@ -114,7 +114,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     - Logistic Regression
   
 
-## 4.2. Regression Model [Colab](https://colab.research.google.com/drive/1NbMTniapYLGishsdzDUVojdg54ujWvPA?usp=sharing)
+## 4.2. Regression Model [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/4.2.Regression_Model.ipynb) | [Colab](https://drive.google.com/file/d/1bvVlnaqoiEpkqLTBRlgj6VTIZh64zQcj/view?usp=sharing)
 1. Machine Learning Model
     - Linear Regression
     - Decision Tree Regressor
@@ -129,7 +129,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     - Using Deep Learning Hyperparameters params
   
 
-## 4.3. Classification Model [Colab](https://colab.research.google.com/drive/17vXfTU6flyo9NU0R9JFkOouiNwBdouE4?usp=sharing)
+## 4.3. Classification Model [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/4.3.Classification_Model.ipynb) | [Colab](https://drive.google.com/file/d/1cSh2ExeMUEA9uaDcDhwfbcaVuZDCJz5B/view?usp=sharing)
 1. Machine Learning Model
     - Logistic Regression
     - Decision Tree
@@ -146,13 +146,13 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 6. Final Model Training
 
 
-## 4.4. Unsupervised Model [Colab](https://colab.research.google.com/drive/1NacmFH7MFqTBCFtm4B6_KqbBsdf1UIoa?usp=sharing)
+## 4.4. Unsupervised Model [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/4.4.Unsupervised_Model.ipynb) | [Colab](https://drive.google.com/file/d/1H-718q2HQDzS4oBx141cwHGg75vt47dg/view?usp=sharing)
 1. KMeans Clustering
 2. Hierarichal Clustering
 3. DBSCAN
 
 
-## 4.5. Time Series Forecast Model [Colab](https://colab.research.google.com/drive/1cuaRN3j36Cl-CHFMgskyiia5nLfUQcxa?usp=sharing)
+## 4.5. Time Series Forecast Model [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/4.5.Time_Series_Forecast_Model.ipynb) [Colab](https://drive.google.com/file/d/1xTOM9OjtJPE6ooOd-NBybA2GJXZ0N89o/view?usp=sharing)
 1. ARIMA
     - Find p,d,q value
     - Model & Forecast
@@ -166,7 +166,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 
 
 #  5. Model Training and Evaluation 
-## 5.1. Optuna Regression Hyperparameter [Colab]()
+## 5.1. Optuna Regression Hyperparameter [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/5.1.Optuna_Regression_Hyperparameter.ipynb) | [Colab](https://drive.google.com/file/d/18Z79SfZP5pdLn6Oq_FNFy2iYP8NKfmrG/view?usp=sharing)
 1. Optuna
     - Linear Regression
     - XGBRegressor
@@ -177,7 +177,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 2. Mutliple Optuna Model
 
 
-## 5.2. Optuna Classification Hyperparameter [Colab]()
+## 5.2. Optuna Classification Hyperparameter [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/5.2.Optuna_Classification_Hyperparameter.ipynb) | [Colab](https://drive.google.com/file/d/10E4wc10DIR02HuzK8ztnqnSTWffNmplm/view?usp=sharing)
 1. Optuna
     - Logistic Regression
     - XGBoost
@@ -195,7 +195,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 
 
 # 6. Ensemble Methods
-## 6.1. Ensemble Methods [Colab]()
+## 6.1. Ensemble Methods [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/6.1.Ensemble_Methods.ipynb) | [Colab](https://drive.google.com/file/d/1N7UpMdtdRxQOF0_J7OdNATgeIqdNTtkE/view?usp=sharing)
 1. Voting
 2. Stacking
 3. Bagging
@@ -206,7 +206,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     - Hyperparameter Tuning
   
 
-## 6.2. Model Evaluation [Colab]()
+## 6.2. Model Evaluation [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/6.2.Model_Evaluation.ipynb) | [Colab](https://drive.google.com/file/d/1UP43vtA1YjmW49ctsY-A81CyrXMy1i5U/view?usp=sharing)
 1. Evaluation of the validation set
 2. Final Model Training
 3. Evaluate on the Test Data
