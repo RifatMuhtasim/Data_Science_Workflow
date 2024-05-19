@@ -149,3 +149,18 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 1. KMeans Clustering
 2. Hierarichal Clustering
 3. DBSCAN
+
+
+## 4.5. Time Series Forecast Model [Colab](https://colab.research.google.com/drive/1cuaRN3j36Cl-CHFMgskyiia5nLfUQcxa?usp=sharing)
+1. ARIMA
+    - Find p,d,q value
+    - Model & Forecast
+2. SARIMAX
+3. FBProphet
+4. LSTM Univariate
+    - Prepare Data
+    - Building LSTM Model
+    - Predictions
+5. LSTM Multivariate
+
+
