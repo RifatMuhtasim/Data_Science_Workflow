@@ -152,7 +152,7 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 3. DBSCAN
 
 
-## 4.5. Time Series Forecast Model [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/4.5.Time_Series_Forecast_Model.ipynb) [Colab](https://drive.google.com/file/d/1xTOM9OjtJPE6ooOd-NBybA2GJXZ0N89o/view?usp=sharing)
+## 4.5. Time Series Forecast Model [Github](https://github.com/RifatMuhtasim/Data_Science_Workflow/blob/main/4.5.Time_Series_Forecast_Model.ipynb) | [Colab](https://drive.google.com/file/d/1xTOM9OjtJPE6ooOd-NBybA2GJXZ0N89o/view?usp=sharing)
 1. ARIMA
     - Find p,d,q value
     - Model & Forecast
