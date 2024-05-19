@@ -164,3 +164,48 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
 5. LSTM Multivariate
 
 
+#  5. Model Training and Evaluation 
+## 5.1. Optuna Regression Hyperparameter [Colab]()
+1. Optuna
+    - Linear Regression
+    - XGBRegressor
+    - Decision Tree Regressor
+    - Random Forest Regressor
+    - Support Vector Regressor
+    - KNeighbors Regressor
+2. Mutliple Optuna Model
+
+
+## 5.2. Optuna Classification Hyperparameter [Colab]()
+1. Optuna
+    - Logistic Regression
+    - XGBoost
+    - Random Forest
+    - Decision Tree Classifier
+    - Support Vector Machine
+    - KNeighbors Classifier
+    - Gaussian NB
+    - Multinomial NB
+2. Multiple Optuna Model
+3. Model Using Stratified K-Fold
+    - Logistic Regression
+    - XGBoost Stratified
+    - KNeighbors Classifier
+
+
+# 6. Ensemble Methods
+## 6.1. Ensemble Methods [Colab]()
+1. Voting
+2. Stacking
+3. Bagging
+4. Boosting
+5. Boosting ML Algo
+    - Light GBM
+    - Cat Boost
+    - Hyperparameter Tuning
+  
+
+## 6.2. Model Evaluation [Colab]()
+1. Evaluation of the validation set
+2. Final Model Training
+3. Evaluate on the Test Data
