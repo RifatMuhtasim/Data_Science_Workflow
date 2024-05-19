@@ -112,4 +112,40 @@ Data Science Workflow Notebook: [Click Here](https://docs.google.com/document/d/
     - Linear Regression
     - Logistic Regression
   
-      
+
+## 4.2. Regression Model [Colab](https://colab.research.google.com/drive/1NbMTniapYLGishsdzDUVojdg54ujWvPA?usp=sharing)
+1. Machine Learning Model
+    - Linear Regression
+    - Decision Tree Regressor
+    - Random Forest Regressor
+    - SVM Regressor
+    - K-Nearest Neighbors Regressor
+    - XGB Regressor
+2. Neural Network
+    - Deep Learning (ANN for Regression)
+3. Hyperparameter Tuning (GridSearchCV)
+4. Hyperparameter Tuning for Neural Network
+    - Using Deep Learning Hyperparameters params
+  
+
+## 4.3. Classification Model [Colab](https://colab.research.google.com/drive/17vXfTU6flyo9NU0R9JFkOouiNwBdouE4?usp=sharing)
+1. Machine Learning Model
+    - Logistic Regression
+    - Decision Tree
+    - Random Forest
+    - Support Vector Machine (SVM)
+    - K-Nearest Neighbors (KNN)
+    - Naive Bayes
+    - XGBoost
+2. Neural Network (Deep Learning)
+3. Hyperparameter Tuning (GridSearchCV)
+4. Hyperparameter Tuning for Neural Network
+    - Using Parameters on Neural Network
+5. Intrepert the model Result
+6. Final Model Training
+
+
+## 4.4. Unsupervised Model [Colab](https://colab.research.google.com/drive/1NacmFH7MFqTBCFtm4B6_KqbBsdf1UIoa?usp=sharing)
+1. KMeans Clustering
+2. Hierarichal Clustering
+3. DBSCAN
